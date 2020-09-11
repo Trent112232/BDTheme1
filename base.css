@@ -1,5 +1,5 @@
 .theme-dark {
-    --header-primary: #7FDBCA;
+    --header-primary: #7fbbdb;
     --header-secondary: #82AAFF;
     --text-normal: #ffffff;
     --text-muted: #4B6479;
@@ -53,3 +53,57 @@
     --deprecated-text-input-border-disabled: #031b2d;
     --deprecated-text-input-prefix: #2b83c3;
 }
+.theme-dark .contentTitle-2tG_sM {
+    color: #71A5FF;
+}
+.theme-dark .contentTitle-2tG_sM strong {
+    color: #82AAFF;
+}
+.theme-dark .autocomplete-1vrmpx {
+    background-color: #043254;
+}
+.theme-dark .description-11DmNu, .theme-dark .descriptionUsername-J_75O8 {
+    color: #01121f;
+}
+.theme-dark .selectorSelected-1_M1WV {
+    background-color: #366bb9;
+}
+.botTagRegular-2HEhHi {
+    background: #af78d4;
+    color: #fff;
+}
+.lookFilled-1Gx00P.colorBrand-3pXr91 {
+    color: #fff;
+    background-color: #0B253A;
+    outline: #5F7E97;
+    outline-color: rgb(95, 126, 151);
+    outline-style: auto;
+    outline-width: thick;
+    outline-width: thick;
+    outline-style: auto;
+}
+.markup-2BOw-j {
+    FONT-VARIANT: 5;
+    font-size: 1rem;
+    line-height: 1.375rem;
+    white-space: pre-wrap;
+    white-space: break-spaces;
+    word-wrap: break-word;
+    -webkit-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
+    user-select: text;
+    color: #ffffff;
+    font-weight: 450;
+}
+.wrapper-3WhCwL {
+    border-radius: 3px;
+    padding: 0 2px;
+    font-weight: 500;
+    unicode-bidi: -moz-plaintext;
+    unicode-bidi: plaintext;
+    color: #F78C6C;
+    background: rgba(114,137,218,.1);
+    position: relative;
+}
+
