@@ -60,7 +60,8 @@
     color: #82AAFF;
 }
 .theme-dark .content-3YMskv {
-    color: #0E293F;
+    height: 4194px;
+    background-color: rgb(14, 41, 63);
 }
 .theme-dark .autocomplete-1vrmpx {
     background-color: #043254;
@@ -188,8 +189,4 @@
     padding: 12px;
     border-radius: 4px;
     background-color: #254057;
-}
-element.style {
-    height: 4132px;
-    background-color: rgb(14, 41, 63);
 }
