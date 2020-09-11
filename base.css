@@ -106,4 +106,83 @@
     background: rgba(114,137,218,.1);
     position: relative;
 }
-
+.mentioned-xhSam7:before {
+    background-color: #ADDB67;
+}
+.mentioned-xhSam7 {
+    position: relative;
+    background-color: #80a4c252;
+}
+.theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
+    background-color: #02233e;
+    color: hsla(0,0%,100%,.8);
+}
+.flex-1xMQg5 {
+    padding-top: 4px;
+}
+.anchor-3Z-8Bb {
+    color: #6f88f7;
+    text-decoration: none;
+    text-decoration-line: none;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+}
+.theme-dark .categoryFadeBlurple-1j72_A, .theme-light .categoryFadeBlurple-1j72_A {
+    background-color: #122d42d4;
+}
+.theme-dark .footer-2gL1pp {
+    background-color: #2d3b46;
+    -webkit-box-shadow: inset 0 1px 0 rgba(47,49,54,.6);
+    box-shadow: inset 0 1px 0 #011627;
+}
+.table-39R0Oe {
+    background-color: #3e454c;
+    border-radius: 4px;
+    padding: 16px;
+}
+.lookFilled-1h1y05.select-1Pkeg4 {
+    background-color: #3e454c;
+    border: 1px solid transparent;
+    border-top-color: rgba(0, 0, 0, 0.38);
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-right-color: rgba(0, 0, 0, 0.38);
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-bottom-color: rgba(0, 0, 0, 0.38);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: rgba(0, 0, 0, 0.38);
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    border-color: rgb(0 0 0 / 38%);
+    border-top-color: rgba(0, 0, 0, 0.38);
+    border-right-color: rgba(0, 0, 0, 0.38);
+    border-bottom-color: rgba(0, 0, 0, 0.38);
+    border-left-color: rgba(0, 0, 0, 0.38);
+}
+.wrapper-3xYGNM {
+    border-radius: 4px;
+    -webkit-transition: background-color .2s ease;
+    background-color: #3e454c;
+}
+.subscriptionLegal-mlU-mA {
+    color: #7299b9;
+    font-size: 12px;
+    line-height: 16px;
+    margin-top: 8px;
+}
+.checkboxLabel-1zn0UC {
+    color: #4978a0;
+}
+.section-2gLsgF {
+    position: relative;
+    padding: 12px;
+    border-radius: 4px;
+    background-color: #254057;
+}
