@@ -193,3 +193,15 @@
 .theme-dark .spoilerText-3p6IlD.hidden-HHr2R9 {
     background-color: #1a3046;
 }
+.tabBody-3YRQ8W {
+    height: 100%;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    position: relative;
+    overflow: hidden;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    background-color: #0e293f;
+}
