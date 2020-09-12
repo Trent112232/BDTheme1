@@ -499,17 +499,6 @@
 .avatar-3uk_u9 .wrapper-3t9DeA svg foreignobject{
     mask: none;
 }
-.name-IbjUBS {
-  color: #165399;
-  border-bottom: 3px solid;
-  border-image: linear-gradient(90deg, transparent, var(--main-color, #7289da), transparent);
-  border-image-slice: 1;
-  margin-top: -7px;
-  text-align: center;
-}
-.containerDefault-3GGEv_ {
-  background-color: transparent !important;
-}
 .avatar-1BDn8e.clickable-1bVtEA {
     pointer-events: auto;
     border-radius: 0;
