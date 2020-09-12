@@ -475,3 +475,9 @@
 .lookFilled-1Gx00P.colorGreen-29iAKY:active {
     background-color: #1ad60a;
 }
+.childWrapper-anI2G9 {
+    -webkit-transition: background-color .15s ease-out,color .15s ease-out;
+    transition: background-color .15s ease-out,color .15s ease-out;
+    background-image: url(https://i.imgur.com/dbEAhYb.png);
+    color: var(--text-normal);
+}
