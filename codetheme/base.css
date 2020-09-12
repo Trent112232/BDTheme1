@@ -113,6 +113,7 @@
 .mentioned-xhSam7 {
     position: relative;
     background-color: #80a4c252;
+    box-shadow: 0 0 10px #80a4c252;
 }
 .theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
     background-color: #02233e;
@@ -397,6 +398,7 @@
 }
 .message-2qnXI6.mentioned-xhSam7.selected-2P5D_Z, .mouse-mode.full-motion .mentioned-xhSam7:hover {
     background-color: rgb(255 255 255 / 8%);
+    box-shadow: 0 0 10px rgb(255 255 255 / 8%);
 }
 .auto-Ge5KZx {
     scrollbar-width: auto;
