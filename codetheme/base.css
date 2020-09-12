@@ -485,3 +485,7 @@
 .unread-3zKkbm {
     background-color: #008eff;
 }
+.colorDanger-2qLCe1, .colorDanger-2qLCe1 .checkbox-3s5GYZ, .colorDanger-2qLCe1 .radioSelection-1HmrQS {
+    color: #ff2020;
+    font-weight: bolder;
+}
