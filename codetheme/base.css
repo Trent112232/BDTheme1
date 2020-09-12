@@ -295,3 +295,18 @@
 .theme-dark .background-3xPPFc {
     color: #001122;
 }
+.inviteRow-2L02ae {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 3px;
+    margin-right: -10px;
+    padding: 7px 10px 7px 8px;
+    height: 44px;
+    background-color: #0e293f;
+}
+.scroller-2hZ97C {
+    max-height: 200px;
+    padding-top: 8px;
+    padding-left: 12px;
+    background-color: #122d42;
+}
