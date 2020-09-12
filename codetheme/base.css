@@ -102,9 +102,10 @@
     font-weight: 500;
     unicode-bidi: -moz-plaintext;
     unicode-bidi: plaintext;
-    color: #F78C6C;
+    color: #95da2d;
     background: rgba(114,137,218,.1);
     position: relative;
+    font-weight: bolder;
 }
 .mentioned-xhSam7:before {
     background-color: #ADDB67;
