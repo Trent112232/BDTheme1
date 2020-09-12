@@ -216,3 +216,22 @@
     overflow-x: hidden;
     background-color: #0B253A;
 }
+.header-1TKi98 {
+    background-color: #122D42;
+    border-radius: 5px 5px 0 0;
+    -webkit-transition: -webkit-box-shadow .1s ease-out;
+    transition: -webkit-box-shadow .1s ease-out;
+    transition: box-shadow .1s ease-out;
+    transition: box-shadow .1s ease-out,-webkit-box-shadow .1s ease-out;
+    word-wrap: break-word;
+}
+.item-26Dhrx {
+    cursor: pointer;
+    border-radius: 3px;
+    border-color: #122D42;
+    background-color: #0E293F;
+}
+.lookFilled-1Gx00P.colorBrand-3pXr91 {
+    color: #fff;
+    background-color: #0e293f;
+}
