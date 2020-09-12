@@ -235,3 +235,12 @@
     color: #fff;
     background-color: #0e293f;
 }
+.footer-2gL1pp, .header-1TKi98 {
+    position: relative;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    padding: 20px;
+    z-index: 1;
+    overflow-x: hidden;
+}
