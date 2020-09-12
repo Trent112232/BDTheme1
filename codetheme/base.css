@@ -12,7 +12,7 @@
     --background-primary: #011627;
     --background-secondary: #001122;
     --background-secondary-alt: #000f1d;
-    --background-tertiary: #FF0000;
+    --background-tertiary: #0C2538;
     --background-accent: #122D42;
     --background-floating: #0E293F;
     --background-mobile-primary: #0E293F;
@@ -541,4 +541,8 @@
     -webkit-transition: border-color .2s ease-in-out;
     transition: border-color .2s ease-in-out;
     box-shadow: inset 0px 0px 3px 0px black;
+}
+.clickable-2ap7je .header-2o-2hj {
+    cursor: pointer;
+    box-shadow: 0 0 10px 0px black;
 }
