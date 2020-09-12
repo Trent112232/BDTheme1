@@ -498,3 +498,27 @@
 .avatar-3uk_u9 .wrapper-3t9DeA svg foreignobject{
     mask: none;
 }
+svg.cursorDefault-dsQJ1n > mask > rect + rect {
+  fill: transparent;
+}
+
+foreignObject[mask="url(#svg-mask-avatar-status-mobile-32)"] {
+    mask: url(#svg-mask-avatar-status-round-32);
+}
+
+foreignObject[mask="url(#svg-mask-avatar-status-mobile-80)"] {
+    mask: url(#svg-mask-avatar-status-round-80);
+}
+
+foreignObject[mask="url(#svg-mask-avatar-status-mobile-32)"] + rect[mask="url(#svg-mask-status-online-mobile)"] {
+    height: 10px;
+    y: 22;
+}
+
+foreignObject[mask="url(#svg-mask-avatar-status-mobile-80)"] + rect[mask="url(#svg-mask-status-online-mobile)"] {
+    height: 16px;
+    y: 60;
+}
+.pointerEvents-2zdfdO {
+    mask: url(#svg-mask-status-online);
+}
