@@ -492,3 +492,9 @@
 .theme-dark .wrapper-1-Fsb8 {
     background-color: rgb(11 41 64);
 }
+.avatar-3uk_u9 .wrapper-3t9DeA{
+    border-radius: 0;
+}
+.avatar-3uk_u9 .wrapper-3t9DeA svg foreignobject{
+    mask: none;
+}
