@@ -398,7 +398,7 @@
 }
 .auto-Ge5KZx {
     scrollbar-width: auto;
-    background-color: #0C2538;
+    background-color: #011627;
 }
 .friendsEmpty-1K9B4k {
     position: absolute;
@@ -415,7 +415,7 @@
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    background-color: #0C2538;
+    background-color: #011627;
 }
 .addInputWrapper-1BOZ3d {
     -webkit-box-flex: 1;
@@ -428,5 +428,5 @@
     padding: 8px 30px;
     -ms-flex-negative: 0;
     flex-shrink: 0;
-    background-color: #FF0000;
+    background-color: #011627;
 }
