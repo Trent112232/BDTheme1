@@ -393,6 +393,7 @@
     padding: 24px 8px 0 16px;
     height: 40px;
     text-align: center;
+    text-shadow: 0 0 6px #00a1ff;
 }
 .message-2qnXI6.mentioned-xhSam7.selected-2P5D_Z, .mouse-mode.full-motion .mentioned-xhSam7:hover {
     background-color: rgb(255 255 255 / 8%);
