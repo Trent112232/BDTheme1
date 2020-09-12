@@ -12,7 +12,7 @@
     --background-primary: #011627;
     --background-secondary: #001122;
     --background-secondary-alt: #000f1d;
-    --background-tertiary: #FF0000;
+    --background-tertiary: #0C2538;
     --background-accent: #122D42;
     --background-floating: #0E293F;
     --background-mobile-primary: #0E293F;
@@ -246,4 +246,34 @@
 }
 .cardPrimary-1Hv-to {
     background: rgb(42 56 76 / 60%);
+}
+.theme-dark .codeRedemptionRedirect-1wVR4b {
+    color: #fff;
+    background-color: #0e293f;
+    border-color: #202225;
+}
+.theme-dark .bottomDivider-1K9Gao {
+    border-bottom-color: #36393f;
+    background-color: #0e293f;
+}
+.pageActions-1SVAnA {
+    border-radius: 3px;
+    padding: 20px 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    background-color: #0e293f;
+}
+.theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6 {
+    color: #f6f6f7;
+    background-color: #3a4858;
+}
+.theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:disabled {
+    background-color: #2f3f58;
 }
