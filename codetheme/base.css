@@ -510,3 +510,7 @@
 .containerDefault-3GGEv_ {
   background-color: transparent !important;
 }
+.avatar-1BDn8e.clickable-1bVtEA {
+    pointer-events: auto;
+    border-radius: 0;
+}
