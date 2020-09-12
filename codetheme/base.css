@@ -12,7 +12,7 @@
     --background-primary: #011627;
     --background-secondary: #001122;
     --background-secondary-alt: #000f1d;
-    --background-tertiary: #FF0000;
+    --background-tertiary: #0C2538;
     --background-accent: #122D42;
     --background-floating: #0E293F;
     --background-mobile-primary: #0E293F;
@@ -206,4 +206,10 @@
     height: 42px;
     padding: 0 8px;
     background-color: #254057;
+}
+.actions-1SQwjn, .listItemContents-95HL3L {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    background-color: #001122;
 }
