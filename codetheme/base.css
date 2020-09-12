@@ -400,3 +400,33 @@
     scrollbar-width: auto;
     background-color: #0C2538;
 }
+.friendsEmpty-1K9B4k {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background-color: #0C2538;
+}
+.addInputWrapper-1BOZ3d {
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding: 8px 30px;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    background-color: #0C2538;
+}
