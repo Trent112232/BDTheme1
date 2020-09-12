@@ -277,3 +277,21 @@
 .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:disabled {
     background-color: #2f3f58;
 }
+.tierHeaderContent-2-YfvN {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: 16px;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    background-color: #001122;
+}
+.theme-dark .tierInProgress-3mBoXq {
+    background-color: #001122;
+}
+.theme-dark .background-3xPPFc {
+    color: #001122;
+}
