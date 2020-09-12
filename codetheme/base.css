@@ -12,7 +12,7 @@
     --background-primary: #011627;
     --background-secondary: #001122;
     --background-secondary-alt: #000f1d;
-    --background-tertiary: #0E293F;
+    --background-tertiary: #0C2538;
     --background-accent: #122D42;
     --background-floating: #0E293F;
     --background-mobile-primary: #0E293F;
@@ -191,4 +191,19 @@
 }
 .scroller-1JbKMe {
     background-color: var(--background-secondary);
+}
+.selected-aXhQR6 .layout-2DM8Md {
+    background-color: #254057;
+}
+.layout-2DM8Md {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border-radius: 4px;
+    height: 42px;
+    padding: 0 8px;
+    background-color: #254057;
 }
